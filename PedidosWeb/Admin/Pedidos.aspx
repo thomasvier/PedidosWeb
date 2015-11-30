@@ -19,7 +19,7 @@
                 $("#MainContent_txtDataEntrega").mask('00/00/0000');
             });
         });
-    </script>
+    </script>    
     <asp:Panel ID="pnCadastro" runat="server" CssClass="panel panel-default" DefaultButton="btnSalvar">
         <div class="panel-heading" role="tab" id="headingOne">
             <h4 class="panel-title">
